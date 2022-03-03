@@ -1,7 +1,7 @@
 ## Olá, tudo bem?  
 
 
-Sou Técnico em Informática, futuro Tecnólogo em Análise e Desenvolvimento de Sistemas (dez/2021), estou cursando o *Programa Starter-Desenvolvimento Web Fullstack* da **[Growdev][grow]**, o *Programa Ignite-Trilha NodeJS* da **[Rocketseat][rock]** e cursando *Inglês-Módulo 01 e 02* no **[CCAA][ccaa]**,. Sou apaixonado por desenvolvimento de softwares, principalmente o backend!</div>
+Sou Técnico em Informática, Tecnólogo em Análise e Desenvolvimento de Sistemas,*Participei do Programa Starter-Desenvolvimento Web Fullstack* da **[Growdev][grow]**, e do *Programa Ignite-Trilha NodeJS* da **[Rocketseat][rock]** e estou cursando *Inglês-Módulo 01 e 02* no **[CCAA][ccaa]**,. Sou apaixonado por desenvolvimento de softwares, principalmente o backend!</div>
 <br>
 <br>
 
